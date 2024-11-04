@@ -1,0 +1,3 @@
+# reventando python...
+
+- [ ] ... con listas?
